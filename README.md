@@ -49,11 +49,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❗️ Closed issue [#50](https://github.com/codeSTACKr/create-10k-nft-collection/issues/50) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. ❗️ Closed issue [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🗣 Commented on [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+.github/workflows/update-readme.yml
 <!--END_SECTION:activity-->
 
 </details>
