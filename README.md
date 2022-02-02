@@ -49,7 +49,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-.github/workflows/update-readme.yml
+
 <!--END_SECTION:activity-->
 
 </details>
