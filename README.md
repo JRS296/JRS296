@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://JRSstudios.com)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrs2002/)
 
-## I'm a Student at VIT Vellore, and am cuurently pursuing my bachelor's in Computer Science Engineering (2024)
+## I'm a Student at VIT Vellore, and am curently pursuing my bachelor's in Computer Science Engineering (2024)
 
 - 🌱 Currently Learning Javascript and React
 - 👯 Looking for fun Open Source Projects to Contribute to
