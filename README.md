@@ -66,4 +66,4 @@
 [linkedin]: https://www.linkedin.com/in/jrs2002/
 [Gmail]: https://jonathansamuel296@gmail.com
 [youtube]: 
-[Telegram]: 
+[Telegram]: https://t.me/JONATHAN_RS296
