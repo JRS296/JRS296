@@ -9,7 +9,7 @@
 
 - 🌱 Currently Learning Javascript and React
 - 👯 Looking for fun Open Source Projects to Contribute to
-- 🥅 2022 Goals: Get an Internship
+- 🥅 2022 Goals: Get an Internship and set up my Portfolio Website.
 - ⚡ Fun fact: I Play the Piano, Guitar and the Violin!
 
 ### Connect with me:
