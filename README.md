@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=JRSstudios.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://JRSstudios.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jonathansamuel296@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://JRSstudios.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JONATHAN_RS296)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrs2002/)
 
 ## I'm a Student at VIT Vellore, and am curently pursuing my bachelor's in Computer Science Engineering (2024)
