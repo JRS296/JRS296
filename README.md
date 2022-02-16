@@ -65,5 +65,5 @@
 [instagram]: https://instagram.com/jonathansamuel296
 [linkedin]: https://www.linkedin.com/in/jrs2002/
 [Gmail]: https://jonathansamuel296@gmail.com
-[youtube]: 
 [Telegram]: https://t.me/JONATHAN_RS296
+[youtube]: 
