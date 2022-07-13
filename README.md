@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JRS296&theme=blue-green)
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JRS296)
 
 </details>
 
