@@ -55,14 +55,14 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br />
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JRS296&show_icons=true)
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
+  <br />
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JRS296)
 
 </details>
