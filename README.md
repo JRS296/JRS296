@@ -56,7 +56,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JRS296's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JRS296)](https://github.com/anuraghazra/github-readme-stats)" />
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JRS296&show_icons=true)
 
 </details>
 
