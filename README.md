@@ -60,6 +60,15 @@
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JRS296&theme=blue-green)
+
+</details>
+
+
+
 [website]: https://JRSstudios.com
 [twitter]: https://twitter.com/Jonatha03957889
 [instagram]: https://instagram.com/jonathansamuel296
