@@ -54,15 +54,15 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <br />
+  <summary>:zap: GitHub Stats <br/></summary>
+  
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JRS296&show_icons=true)
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
-  <br />
+  <summary>:zap: Most Used Languages<br/></summary>
+  
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JRS296)
 
 </details>
@@ -75,4 +75,4 @@
 [linkedin]: https://www.linkedin.com/in/jrs2002/
 [Gmail]: https://jonathansamuel296@gmail.com
 [Telegram]: https://t.me/JONATHAN_RS296
-[youtube]: #
+[youtube]: https://www.youtube.com/channel/UCaj_PkgaGzGuEXznoVtksNg
