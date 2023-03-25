@@ -44,28 +44,14 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+## 📈 Overview
 
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats <br/></summary>
-  
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JRS296&show_icons=true)
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages<br/></summary>
-  
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JRS296)
-
-</details>
+<table>
+  <tr>
+    <td><img align="" width="" alt="🦑" src="/field1.svg"></td>
+    <td><img align="" width="" alt="🦑" src="/field2.svg"></td>
+  </tr>
+</table>
 
 
 
