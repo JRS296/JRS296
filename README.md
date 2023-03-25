@@ -48,8 +48,8 @@
 
 <table>
   <tr>
-    <td><img align="" width="" alt="🦑" src="/field1.svg"></td>
-    <td><img align="" width="" alt="🦑" src="/field2.svg"></td>
+    <td><picture><img align="" width="" alt="🦑" src="/field1.svg"></picture></td>
+    <td><picture><img align="" width="" alt="🦑" src="/field2.svg"></picture></td>
   </tr>
 </table>
 
