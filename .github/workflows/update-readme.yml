@@ -18,10 +18,10 @@ jobs:
           filename: field1.svg
           token: ${{ secrets.METRICS }}
           user: JRS296
-#           template: classic
-#           base: header, activity, community, repositories, metadata
-#           base_indepth: yes
-#           config_timezone: Asia/Calcutta
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 5
@@ -57,6 +57,7 @@ jobs:
         with:
           filename: field2.svg
           token: ${{ secrets.METRICS }}
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_leetcode: yes
