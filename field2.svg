@@ -2323,8 +2323,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.532258064516128 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">210</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.658602150537636 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">211</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2604</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2350,8 +2350,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.325301204819276 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">20</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="11.89156626506024 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">21</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/581</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -2369,7 +2369,7 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x104</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x47</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x42</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x43</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x35</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x34</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x32</span></div>
@@ -2378,8 +2378,8 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x26</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x25</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x25</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x22</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x22</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Design <span class="count">x15</span></div>
                     </div>
                 </section>
@@ -2395,6 +2395,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Scramble String</div>
+                            <div class="date">30 Mar 2023</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Reducing Dishes</div>
                             <div class="date">29 Mar 2023</div>
                         </div>
@@ -2405,15 +2414,6 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Minimum Cost For Tickets</div>
-                            <div class="date">28 Mar 2023</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">K-th Symbol in Grammar</div>
                             <div class="date">28 Mar 2023</div>
                         </div>
                     </div>
