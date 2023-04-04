@@ -1995,6 +1995,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2016,7 +2021,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saketkc/fos-proposals</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2073,7 +2078,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prondubuisi/accepted-gsoc-proposals</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A repository containing links to accepted proposals for GSoC, Hopefully this helps someone write a better proposal and get accepted into the program</div>
@@ -2120,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sathishvj/awesome-gcp-certifications</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Cloud Platform Certification resources.</div>
