@@ -2026,7 +2026,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nas5w/interview-guide</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An opinionated, actionable guide for software engineering interviews.</div>
@@ -2177,7 +2177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sathishvj/awesome-gcp-certifications</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Cloud Platform Certification resources.</div>
@@ -2304,9 +2304,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.332695252679937 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.322234978951396 329"/>
                                     <text x="60" y="50" dominant-baseline="central">217</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2612</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2613</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2331,9 +2331,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.415094339622641 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.393835616438356 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/583</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/584</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
