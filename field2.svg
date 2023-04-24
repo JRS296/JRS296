@@ -2294,8 +2294,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.13149962321025 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">235</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.25546345139412 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">236</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2654</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2303,8 +2303,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.77217125382263 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">89</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="45.27522935779817 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">90</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/654</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2338,7 +2338,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x115</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x116</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x52</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x50</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x40</span></div>
@@ -2366,6 +2366,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Last Stone Weight</div>
+                            <div class="date">24 Apr 2023</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Restore The Array</div>
                             <div class="date">23 Apr 2023</div>
                         </div>
@@ -2377,15 +2386,6 @@
                         <div class="infos">
                             <div class="title">Minimum Insertion Steps to Make a String Palindrome</div>
                             <div class="date">22 Apr 2023</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Profitable Schemes</div>
-                            <div class="date">21 Apr 2023</div>
                         </div>
                     </div>
                 </section>
