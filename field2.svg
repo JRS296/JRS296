@@ -2188,7 +2188,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        417
+                                        418
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2300,8 +2300,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.700520833333336 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">259</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.9453125 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">261</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2688</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2309,8 +2309,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="47.91741741741742 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">97</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="48.41141141141141 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">98</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/666</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2318,8 +2318,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.46955913226032 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">128</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.699790062981105 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">129</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1429</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2344,17 +2344,17 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x130</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x58</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x54</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x131</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x59</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x56</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x41</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x37</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x38</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x37</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x37</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x37</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x30</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x30</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x29</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x30</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x28</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x26</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x19</span></div>
@@ -2372,7 +2372,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Height by Stacking Cuboids </div>
+                            <div class="title">Two Sum</div>
                             <div class="date">16 May 2023</div>
                         </div>
                     </div>
@@ -2381,7 +2381,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Swap Nodes in Pairs</div>
+                            <div class="title">Valid Anagram</div>
                             <div class="date">16 May 2023</div>
                         </div>
                     </div>
@@ -2390,7 +2390,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Sliding Window Maximum</div>
+                            <div class="title">Contains Duplicate</div>
                             <div class="date">16 May 2023</div>
                         </div>
                     </div>
