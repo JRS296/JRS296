@@ -2032,7 +2032,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JRS296/Chat-App-using-AWS-Chat-engine</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple React based Chat App using react chat engine API for serverless Chatroom creation.</div>
@@ -2307,8 +2307,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.7660125879304 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">269</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="32.88781932617549 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">270</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2701</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2325,8 +2325,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.20223152022315 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">136</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.43165969316597 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">137</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1434</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2351,7 +2351,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x136</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x137</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x59</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x57</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x41</span></div>
@@ -2379,7 +2379,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Subsequence Score</div>
+                            <div class="title">Permutations</div>
                             <div class="date">24 May 2023</div>
                         </div>
                     </div>
@@ -2388,8 +2388,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Min Stack</div>
-                            <div class="date">23 May 2023</div>
+                            <div class="title">Letter Combinations of a Phone Number</div>
+                            <div class="date">24 May 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2397,8 +2397,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Search in Rotated Sorted Array</div>
-                            <div class="date">23 May 2023</div>
+                            <div class="title">Maximum Subsequence Score</div>
+                            <div class="date">24 May 2023</div>
                         </div>
                     </div>
                 </section>
