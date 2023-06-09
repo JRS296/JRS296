@@ -2042,7 +2042,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anurup-Sankriti/Insurance-charge-prediction</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using conditional statements to predict the insurance charges, another approach to model calling other than pickling</div>
@@ -2089,7 +2089,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apple/password-manager-resources</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A place for creators and users of password managers to collaborate on resources to make password management better.</div>
@@ -2142,7 +2142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anurup-Sankriti/Hackerrank-problemsolving-soln</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2190,7 +2190,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shreyashmehrotra20/dsaQuestions</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2318,8 +2318,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.456744868035194 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">294</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.05975073313783 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">299</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2728</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2327,8 +2327,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="48.58040935672515 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">101</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="50.50438596491228 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">105</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/684</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2336,8 +2336,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.02356202356202 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">158</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.25155925155925 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">159</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1443</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2362,18 +2362,18 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x154</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x155</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x61</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x61</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x60</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x44</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x45</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x43</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x41</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x39</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x38</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x35</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x34</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x36</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x36</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x32</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x31</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x31</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x27</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x21</span></div>
                     </div>
@@ -2390,7 +2390,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Reverse Integer</div>
+                            <div class="title">Single Number</div>
                             <div class="date">9 Jun 2023</div>
                         </div>
                     </div>
@@ -2399,7 +2399,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Smallest Letter Greater Than Target</div>
+                            <div class="title">Number of 1 Bits</div>
                             <div class="date">9 Jun 2023</div>
                         </div>
                     </div>
@@ -2408,8 +2408,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">N-Queens</div>
-                            <div class="date">8 Jun 2023</div>
+                            <div class="title">Counting Bits</div>
+                            <div class="date">9 Jun 2023</div>
                         </div>
                     </div>
                 </section>
