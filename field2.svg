@@ -2032,7 +2032,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleCloudPlatform/asl-ml-immersion</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repos contains notebooks for the Advanced Solutions Lab: ML Immersion</div>
@@ -2085,7 +2085,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IEEE-TEMS-VIT/YOLO</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2127,7 +2127,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dijkstra-Edu/HackerRank-Solutions</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2175,7 +2175,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dijkstra-Edu/DSA-Fundamentals---JAVA</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2303,9 +2303,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.91630116959064 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.90281329923274 329"/>
                                     <text x="60" y="50" dominant-baseline="central">307</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2736</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2737</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2321,9 +2321,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.833448514167245 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.80801104972376 329"/>
                                     <text x="60" y="50" dominant-baseline="central">162</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1447</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1448</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
