@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1079" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.37m added, 6.62k removed
+                                    946k added, 8.23k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.34891476509003" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="224.34891476509003" y="0" width="130.63140234236383" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="354.98031710745386" y="0" width="25.60007076995073" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="380.5803878774046" y="0" width="22.544855014452803" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.1252428918574" y="0" width="20.262645654924235" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="423.3878885467816" y="0" width="17.005208816936438" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="440.393097363718" y="0" width="12.260623849270809" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.65372121298884" y="0" width="7.346278787011148" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.0371079808661" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="224.0371079808661" y="0" width="130.4498469400313" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="354.4869549208974" y="0" width="25.564491031350066" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="380.0514459522475" y="0" width="23.152843166046885" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.20428911829435" y="0" width="20.234484028253803" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="423.43877314654816" y="0" width="16.981574472719448" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="440.42034761926766" y="0" width="12.24358367014169" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.66393128940933" y="0" width="7.336068710590725" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -393,12 +393,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 50 commits)</small>
+                    <small class="h-details">(computed from last 52 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.9 characters per line of code written</li>
+                        <li>Has approximately 31.7 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -413,6 +413,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">JRS296/Directory-Tree</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#084b532</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/JRS296/Directory-Tree</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JRS296/Directory-Tree</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7021c81</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -463,261 +503,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JRS296/Julia-Projects</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b5c2c26</div>
-                                        <div class="message">Commit 2 - Addition of Voyager Visualization App files - 06.07.2023 - 18:33</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 180 commits in
-                                        <span class="repo">JRS296/julia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#82c89c6</div>
-                                        <div class="message">Lookup libraries in `libjulia-*` before `jl_exe_handle`
-
-We do not use `dlvsym` to separate the symbols between multiple copies
-of libjulia, instead preferring to resolve symbols directly against the
-appropriate internal library handle.
-
-During bootstrapping, many internal symbols (e.g. `jl_fl_parse`) are
-available in the global EXE namespace, so we need to adapt our search
-order to resolve symbols in internal libraries first.
-
-With this fix, no sysimage symbols are resolved to `jl_exe_handle`
-(which is generally broken in Julia-in-Julia scenarios):
-```
-$ cat objdump_after.txt | grep libjulia_internal_handle | wc
-   1131   14703  145899
-$ cat objdump_after.txt | grep jl_exe_handle | wc
-      0       0       0
-```
-
-versus before:
-```
-$ cat objdump_before.txt | grep libjulia_internal_handle | wc
-    577    7501   74433
-$ cat objdump_before.txt | grep jl_exe_handle | wc
-    554    7202   63710
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84fc130</div>
-                                        <div class="message">Merge pull request #50083 from topolarity/fasttls-semaphore
-
-Prevent registering static FASTTLS with multiple libjulias</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d839f9</div>
-                                        <div class="message">Refactor irinterp refinement logic (#50155)
-
-This continues the refactoring begun by #49340 to have irinterp
-consume the IR_FLAG_REFINED flag. This essentially has the same
-effect as the extra_reprocess bitset that irinterp takes, so
-we can remove that. However, there is a related issue where we
-would like to inform irinterp that we have *already* refined
-the type of a particular statement (likely using information
-not available to the irinterp) and would like it to just
-propagate that if possible. So bring back that extra bitset
-with a new name and these new semantics to make that possible.
-
-While I was working on this, I also noticed that the control
-hook I added in #48199 wasn't quite working as advertised.
-I don't currently need it, so rather than trying to work
-through an API without a concrete consumer, just nuke that
-hook for now. I do still think it'll be required at some
-point, but we can always add it back.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#320e00d</div>
-                                        <div class="message">lowering: try to ignore special metadata nodes in tail position (#49963)
-
-A number of packages are relying on lowering removing or ignoring line
-number nodes that they place in incorrect position in the AST.
-Accommodate those packages accordingly.
-
-Fix #49920</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97f445e</div>
-                                        <div class="message">Update cli/loader_lib.c
-
-From Jameson:
-&gt; apparently on Windows, the _Atomic x syntax means something slightly different and is not correctly implemented
-
-Co-authored-by: Jameson Nash &lt;vtjnash@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d89d8b</div>
-                                        <div class="message">Test: support multiple assignments for `@testset let` (#50151)
-
-Nested `ContextTestset` is  supported, so we can stack it when there are
-multiple assignments in a given `let` block.
-
-```julia
-julia&gt; @testset let logi = log(im), op = !iszero
-           @test imag(logi) == π/2
-           @test op(real(logi))
-       end
-Test Failed at none:3
-  Expression: !(iszero(real(logi)))
-     Context: logi = 0.0 + 1.5707963267948966im
-              op = !iszero
-
-ERROR: There was an error during testing
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f007c01</div>
-                                        <div class="message">fix `array_builtin_common_nothrow` for `arrayref` (#50152)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cd7a1b</div>
-                                        <div class="message">Enable JITLink in aarch64 linux. (#49745)
-
-* Enable JITLink in aarch64 linux.
-
-* Simplify logic to enable JITLink
-
-* Do not enable JITLink on Aarch64 Linux with LLVM &lt; 15
-
-* Add NEWS entry and mention JITLink memory bug in ARM devdocs
-
----------
-
-Co-authored-by: Sunho Kim &lt;ksunhokim123@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#061401e</div>
-                                        <div class="message">Merge pull request #50150 from JuliaLang/kf/refkillissues
-
-Fix various refcount violations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0083a04</div>
-                                        <div class="message">Fix refcount violations in new ifelse sroa lifting
-
-Fixes a refcount violation in #49882. Unlike PhiNodes, the code
-for ifelse was referencing the old arguments in the newly inserted
-nodes, so they were getting counted. However, it did not update
-the count when replacing these arguments later. Fix this by aligning
-with PhiNode and leaving the arguments unset, pushing them in later.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3cd3eb</div>
-                                        <div class="message">Fix refcount violation for pending_nodes
-
-These nodes get passed through renaming, but with SSAValues already
-renamed. Due to a long-standing bug, we were failing to refcount
-those SSAValues on insertion. Fix that bug.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#970941c</div>
-                                        <div class="message">effects: allow concrete-eval when `--check-bounds=no` if proven "safe" (#50107)
-
-From version 1.9 onwards, when `--check-bounds=no` is used,
-concrete-eval is completely disabled. However, it appears
-`--check-bounds=no` is still being used within the community, causing
-issues like the one reported in JuliaArrays/StaticArrays.jl#1155.
-Although we should move forward to a direction of eliminating the flag
-in the future (#48245), for the time being, there are many requests to
-carry out a certain level of compiler optimization, even when this flag
-is enabled.
-
-This commit aims to allow concrete-eval "safely" even under
-`--check-bounds=no`. Specifically, when the method call being analyzed
-is `:nothrow`, it should be predominantly safe to concrete-eval it under
-this flag. Technically, however, even `:nothrow` methods could trigger
-undefined behavior, since `:nothrow` isn't a strict constraint and it's
-possible for users to annotate potentially risky methods with
-`Base.@assume_effects :nothrow`. Nonetheless, since this possibility is
-acknowledged in `Base.@assume_effects` documentation, I feel it's fair
-to relegate it to user responsibility.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf9bbb2</div>
-                                        <div class="message">Add doc string for reflectorApply! (#50081)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69b1a2</div>
-                                        <div class="message">Add check call to getrf! (#50134)
-
-* Add check call to getrf!
-
-`lu!(A; check=false)` is supposed to disable the checking and leave it to the user:
-
-&gt; When check = true, an error is thrown if the decomposition fails. When check = false, responsibility for checking the decomposition's validity (via issuccess) lies with the user.
-
-However, this is not quite true since `lu!` calls `getrf!` which internally does a check for `chkfinite` which does throw an error. This updates the `getrf!` function to have a `check` argument which is then used by `lu!` to fully disable the error throwing checks.
-
-* Update lapack.jl</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75bda64</div>
-                                        <div class="message">speed up expansion and lowering of ccall macro (#50077)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a81398f</div>
-                                        <div class="message">[CompilerSupportLibraries_jll] Upgrade to v1.0.5 (#50135)
-
-This build includes a fix from GCC 12.2 for a bug in libgomp 12.1 which was
-causing frequent crashes on Windows in third-party libraries.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c58e508</div>
-                                        <div class="message">fix(docs): typo in code-loading (#50123)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1c0d83</div>
-                                        <div class="message">Prevent registering static FASTTLS with multiple libjulias
-
-When there are multiple copies of libjulia present in the application,
-they can both end up trying to use the same static fast tls storage.
-
-The alternative options I considered for this were:
-  - Add `jl_options.use_static_fasttls` and update PackageCompiler.jl to
-    set the flag to FALSE
-  - Use `dlvsym` in the CLI loader and attach to the exported
-    jl_pgcstack_static symbols `__attribute__((symver(...)))`
-
-The second approach is not available on musl, but the first one seems
-like the ideal way to handle this long-term.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ed7aec</div>
-                                        <div class="message">Add docstrings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49572a5</div>
-                                        <div class="message">Add mutating `stat!` function for non-allocating filesystem `stat`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -741,7 +526,7 @@ like the ideal way to handle this long-term.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2023, 22:48:41 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jul 2023, 23:53:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
