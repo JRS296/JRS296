@@ -2042,7 +2042,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JRS296/Directory-Tree</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Python CLI App to generate a directory tree for a given path</div>
@@ -2095,7 +2095,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JRS296/Microcontroller-Files</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Coursework from course CSE2016 - Microcontrollers and Microprocessors</div>
@@ -2148,7 +2148,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manavshrivastavagit/mycli</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2329,8 +2329,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.99421128798843 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">336</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.11324167872648 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">337</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2764</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2347,8 +2347,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="41.377990430622006 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">184</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="41.60287081339713 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">185</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1463</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2375,13 +2375,13 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x180</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x67</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x66</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x67</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x57</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x48</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x43</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x43</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x41</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x38</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x39</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x38</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x37</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x36</span></div>
@@ -2401,6 +2401,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Maximize the Confusion of an Exam</div>
+                            <div class="date">7 Jul 2023</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Minimum Size Subarray Sum</div>
                             <div class="date">6 Jul 2023</div>
                         </div>
@@ -2412,15 +2421,6 @@
                         <div class="infos">
                             <div class="title">Longest Subarray of 1's After Deleting One Element</div>
                             <div class="date">5 Jul 2023</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Single Number II</div>
-                            <div class="date">4 Jul 2023</div>
                         </div>
                     </div>
                 </section>
