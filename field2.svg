@@ -2200,7 +2200,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skiff-org/skiff-apps</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.</div>
@@ -2333,27 +2333,27 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.41184971098266 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">340</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2768</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.59090909090909 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">342</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2772</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="54.19942196531792 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">114</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/692</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="54.5959595959596 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">115</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/693</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="41.74215552523874 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">186</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1466</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="41.88087134104833 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">187</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1469</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
