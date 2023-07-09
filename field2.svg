@@ -2333,8 +2333,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.59090909090909 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">342</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.70959595959596 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">343</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2772</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2360,8 +2360,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.57377049180328 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">40</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="22.11311475409836 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">41</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/610</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -2377,10 +2377,10 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x181</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x182</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x67</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x67</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x57</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x58</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x48</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x43</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x43</span></div>
@@ -2405,8 +2405,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Put Marbles in Bags</div>
-                            <div class="date">8 Jul 2023</div>
+                            <div class="title">Substring With Largest Variance</div>
+                            <div class="date">9 Jul 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2414,8 +2414,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Alternating Subarray</div>
-                            <div class="date">8 Jul 2023</div>
+                            <div class="title">Maximum Number of Jumps to Reach the Last Index</div>
+                            <div class="date">9 Jul 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2423,8 +2423,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Relocate Marbles</div>
-                            <div class="date">8 Jul 2023</div>
+                            <div class="title">Find the Maximum Achievable Number</div>
+                            <div class="date">9 Jul 2023</div>
                         </div>
                     </div>
                 </section>
