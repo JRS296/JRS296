@@ -80,6 +80,15 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 <br />
+
+### Certifications:
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/jonathanrufussamuel-6286/transcript/v0gw3tnw453em96"><picture><img alt="AZ-104" src="https://github.com/JRS296/JRS296/assets/70965472/ea4642ef-e3ab-4c58-9867-364e74302957" width="18%"></picture></a>
+  <a href="https://learn.microsoft.com/en-us/users/jonathanrufussamuel-6286/transcript/v0gw3tnw453em96"><picture><img alt="AZ-900" src="https://github.com/JRS296/JRS296/assets/70965472/9ffe1760-61ee-4af2-8871-c62ff0f1e78f" width="18%"></picture></a>
+</p>
+  
+<br />
 <br />
 
 ---
@@ -88,8 +97,8 @@
 
 <table>
   <tr>
-    <td><picture><img align="" width="" alt="🦑" src="/field1.svg"></picture></td>
-    <td><picture><img align="" width="" alt="🦑" src="/field2.svg"></picture></td>
+    <td><a href="https://metrics.lecoq.io/insights/JRS296"><picture><img align="" width="" alt="🦑" src="/field1.svg"></picture></a></td>
+    <td><a href="https://metrics.lecoq.io/insights/JRS296"><picture><img align="" width="" alt="🦑" src="/field2.svg"></picture></a></td>
   </tr>
 </table>
 
