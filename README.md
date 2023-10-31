@@ -9,7 +9,7 @@
 
 ## I'm a Student at VIT Vellore, and am curently pursuing my bachelor's in Computer Science Engineering (2024)
 
-- 🌱 Currently working on [Dijkstra](https://github.com/Dijkstra-Edu), learning DevOps and experimenting with Flutter & Rust.
+- 🌱 Currently working on [Dijkstra](https://github.com/Dijkstra-Edu), learning DevOps and experimenting with Golang, Flutter & Rust.
 - 👯 Looking for fun Open Source Projects to Contribute to
 - ⚡ Fun fact: I Play the Piano, Guitar and the Violin!
 
