@@ -9,20 +9,23 @@
 
 ## I'm a Student at VIT Vellore, and am curently pursuing my bachelor's in Computer Science Engineering (2024)
 
-- 🌱 Currently working on [Dijkstra](https://github.com/Dijkstra-Edu), learning DevOps and experimenting with Golang, Flutter & Rust.
+- 💼 Currently Interning at [Hyperface](https://www.hyperface.co/) as an SDE Intern for Backend Engineering. Working primarily on Groovy on Grails and Java Spring Boot Development.
+- 🌱 Currently working on [Dijkstra](https://github.com/Dijkstra-Edu) and [Auto Mp3 Tag Editor](https://github.com/Mp3-Automated-Tag-Editor), learning DevOps and experimenting with Golang, Flutter & Rust.
 - 👯 Looking for fun Open Source Projects to Contribute to
 - ⚡ Fun fact: I Play the Piano, Guitar and the Violin!
 
 ### TaskList
 
 ✔️ <s>2022 Goals: Get an Internship and set up my Portfolio Website.</s><br>
-🥅 2023 Goals: 
+✔️ <s>2023 Goals: Contribute to x3 new OS projects, Learn Rust, Hit 400 problems on [LC](https://leetcode.com/JRS296/) (almost xD)</s><br>
+🥅 2024 Goals: 
 - Get [Dijkstra](https://github.com/Dijkstra-Edu) to a 1000 members.
-- Contribute to x3 new OS projects.
-- Learn Flutter & Rust.
+- Learn Flutter & Golang.
+- Complete Automated Mp3 Tag Editor Development.
+- Complete Conferencing features for Dijkstra.
 - Work on DevOps
 - Understand ML + Implement x2 Projects.
-- Hit 500 problems on [LC](https://leetcode.com/JRS296/).
+- Explore Web3 and Embedded Development
 
 ### Connect with me:
 
@@ -37,6 +40,8 @@
 ### Languages:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+<img align="left" alt="Groovy" width="26px" src="https://github.com/groovy/artwork/blob/master/logo_big.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -65,6 +70,7 @@
 <img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -74,10 +80,9 @@
 
 ###  Working on it 😅:
 
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
 <br />
 
@@ -86,7 +91,7 @@
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/users/jonathanrufussamuel-6286/transcript/v0gw3tnw453em96"><picture><img alt="AZ-104" src="https://github.com/JRS296/JRS296/assets/70965472/ea4642ef-e3ab-4c58-9867-364e74302957" width="18%"></picture></a>
   <a href="https://learn.microsoft.com/en-us/users/jonathanrufussamuel-6286/transcript/v0gw3tnw453em96"><picture><img alt="AZ-900" src="https://github.com/JRS296/JRS296/assets/70965472/9ffe1760-61ee-4af2-8871-c62ff0f1e78f" width="18%"></picture></a>
-  <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/659128e7-9e57-4de9-a787-652411a526e0"><picture><img alt="MLSA-Aplha" src="https://github.com/JRS296/JRS296/assets/70965472/26434cc5-2f5e-46a6-9932-f9457e96959f" width="20%"></picture></a>
+  <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/659128e7-9e57-4de9-a787-652411a526e0"><picture><img alt="MLSA-Beta" src="https://github.com/JRS296/JRS296/assets/70965472/826e889b-a2cd-4657-8a54-8cc660b9d1b8" width="32%"></picture></a>
 </p>
   
 <br />
