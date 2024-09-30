@@ -9,23 +9,22 @@
 
 ## I'm a Student at VIT Vellore, and am curently pursuing my bachelor's in Computer Science Engineering (2024)
 
-- 💼 Currently Interning at [Hyperface](https://www.hyperface.co/) as an SDE Intern for Backend Engineering. Working primarily on Groovy on Grails and Java Spring Boot Development.
-- 🌱 Currently working on [Dijkstra](https://github.com/Dijkstra-Edu) and [Auto Mp3 Tag Editor](https://github.com/Mp3-Automated-Tag-Editor), learning DevOps and experimenting with Golang, Flutter & Rust.
-- 👯 Looking for fun Open Source Projects to Contribute to
-- ⚡ Fun fact: I Play the Piano, Guitar and the Violin!
+- 💼 Working at [CERN](https://home.cern/) as Systems Administrator for Windows Desktops and Software Developer. Working primarily on C# ASP .Net Core Development, along with Systems administration using poweshell, Microsoft Configuration Manager, Intune & In-House Software Management Tools.
+- 🌱 On the side, I'm working on [Dijkstra](https://github.com/Dijkstra-Edu) and [Auto Mp3 Tag Editor](https://github.com/Mp3-Automated-Tag-Editor), learning DevOps and experimenting with Golang, Flutter & Rust.
+- 👯 Looking for fun Open Source Projects to Contribute to! Especially in the fields of system-level software development and compiler design.
+- ⚡ Fun fact: I Play the Piano, Guitar and the Violin! (And a bunch more instruments! XD)
 
 ### TaskList
 
 ✔️ <s>2022 Goals: Get an Internship and set up my Portfolio Website.</s><br>
 ✔️ <s>2023 Goals: Contribute to x3 new OS projects, Learn Rust, Hit 400 problems on [LC](https://leetcode.com/JRS296/) (almost xD)</s><br>
 🥅 2024 Goals: 
-- Get [Dijkstra](https://github.com/Dijkstra-Edu) to a 1000 members.
-- Learn Flutter & Golang.
-- Complete Automated Mp3 Tag Editor Development.
-- Complete Conferencing features for Dijkstra.
-- Work on DevOps
-- Understand ML + Implement x2 Projects.
-- Explore Web3 and Embedded Development
+- Get [Dijkstra](https://github.com/Dijkstra-Edu) to a 100 members.
+- Complete Automated Mp3 Tag Editor Development - The Desktop App (75% completed), The Rust CLI (20% completed) and the Mobile App (Yet To Start)
+
+🥅 2025 Goals: 
+- Complete Conferencing features for Dijkstra + public release.
+- Try to crack GSoC (If I have the time 🥹)
 
 ### Connect with me:
 
@@ -47,7 +46,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" />
 <img align="left" alt="RStudio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -76,6 +76,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <br />
 
 ###  Working on it 😅:
