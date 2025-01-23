@@ -7,10 +7,10 @@
 [![Dijkstra.edu](https://img.shields.io/website?label=Dijkstra.edu&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dijkstra-edu.github.io/Dijkstra-Web/)
 
 
-## I'm a Student at VIT Vellore, and am curently pursuing my bachelor's in Computer Science Engineering (2024)
+## I'm a Systems Engineer @CERN
 
 - 💼 Working at [CERN](https://home.cern/) as Systems Administrator for Windows Desktops and Software Developer. Working primarily on C# ASP .Net Core Development, along with Systems administration using poweshell, Microsoft Configuration Manager, Intune & In-House Software Management Tools.
-- 🌱 On the side, I'm working on [Dijkstra](https://github.com/Dijkstra-Edu) and [Auto Mp3 Tag Editor](https://github.com/Mp3-Automated-Tag-Editor), learning DevOps and experimenting with Golang, Flutter & Rust.
+- 🌱 On the side, I'm working on [Dijkstra](https://github.com/Dijkstra-Edu) and [Auto Mp3 Tag Editor](https://github.com/Mp3-Automated-Tag-Editor), learning DevOps and experimenting with Golang, Flutter & Rust, along with Systems and Low Level Engineering.
 - 👯 Looking for fun Open Source Projects to Contribute to! Especially in the fields of system-level software development and compiler design.
 - ⚡ Fun fact: I Play the Piano, Guitar and the Violin! (And a bunch more instruments! XD)
 
@@ -18,13 +18,13 @@
 
 ✔️ <s>2022 Goals: Get an Internship and set up my Portfolio Website.</s><br>
 ✔️ <s>2023 Goals: Contribute to x3 new OS projects, Learn Rust, Hit 400 problems on [LC](https://leetcode.com/JRS296/) (almost xD)</s><br>
-🥅 2024 Goals: 
-- Get [Dijkstra](https://github.com/Dijkstra-Edu) to a 100 members.
-- Complete Automated Mp3 Tag Editor Development - The Desktop App (75% completed), The Rust CLI (20% completed) and the Mobile App (Yet To Start)
+✔️ <s>2024 Goals: Complete Automated Mp3 Tag Editor Development - The Desktop App</s><br>
 
 🥅 2025 Goals: 
+- Get [Dijkstra](https://github.com/Dijkstra-Edu) to a 100 members.
 - Complete Conferencing features for Dijkstra + public release.
-- Try to crack GSoC (If I have the time 🥹)
+- Try to crack GSoC and LFX for Linux Kernel Development.
+- Complete Auto-Mp3 Rust CLI (20% completed) and the Mobile App (Yet To Start)
 
 ### Connect with me:
 
@@ -75,7 +75,6 @@
 <img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 
