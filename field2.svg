@@ -1995,6 +1995,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2341,8 +2346,8 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x76</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x60</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x56</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x48</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x47</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x47</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x46</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x45</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x43</span></div>
